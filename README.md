@@ -1,6 +1,4 @@
-![image]<img width="773" height="120" src="https://github.com/MQZHot/ZLaunchAdVC/blob/master/Picture/ZLaunchAdVC.png"/>
-
-1
+![image](https://github.com/MQZHot/ZLaunchAdVC/blob/master/Picture/ZLaunchAdVC.png)
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Swift-green.svg) ![](https://img.shields.io/badge/support-iOS%208%2B-blue.svg) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) ![](https://img.shields.io/badge/pod-0.0.2-yellow.svg)
 
@@ -10,7 +8,6 @@
 ## 功能
 
 - [x] 圆形跳过按钮、倒计时+跳过
-
 - [x] 全屏广告、半屏广告
 - [x] 跳过按钮位置：屏幕右上角、右下角，广告图右下角
 - [x] 支持 GIF 广告图片显示
@@ -71,4 +68,19 @@ Target -> General -> Deployment Target -> Status Bar Style 设置状态栏颜色
 
 ## CocoaPods更新日志
 
+```
+• 2017.7.25: 
+  1.新增GIF图片显示
+  2.去掉kingfisher
+  3.修复过渡动画重复进行
 
+```
+
+## 联系方式
+
+* Email: mqz1228@163.com
+* 简书: http://www.jianshu.com/u/9e39ec4000e9
+
+## License
+
+ZLaunchAdVC is available under the MIT license. See the LICENSE file for more info.
