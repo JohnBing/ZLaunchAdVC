@@ -1,4 +1,4 @@
-![image](https://github.com/MQZHot/ZLaunchAdVC/blob/master/Picture/ZLaunchAdVC.png)<img width="150" height="150" src="https://github.com/MQZHot/ZLaunchAdVC/blob/master/Picture/ZLaunchAdVC.png"/>
+![image]<img width="773" height="120" src="https://github.com/MQZHot/ZLaunchAdVC/blob/master/Picture/ZLaunchAdVC.png"/>
 
 1
 
@@ -18,7 +18,7 @@
 
 ## 用法
 
-#### 代码
+* #### 代码
 
 ```swift
 ///AppleDelegate中设置
@@ -59,7 +59,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
 }
 ```
 
-#### 状态栏设置
+* #### 状态栏设置
 
 Target -> General -> Deployment Target -> Status Bar Style 设置状态栏颜色、显示与隐藏
 
