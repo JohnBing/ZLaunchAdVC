@@ -45,7 +45,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             /// ====================================================
             DispatchQueue.main.asyncAfter(deadline: DispatchTime.now() + 2, execute: {
                 
-                let url = "http://chatm-icon.oss-cn-beijing.aliyuncs.com/pic/pic_20170724152928869.gif"
+                let url = "http://chatm-icon.oss-cn-beijing.aliyuncs.com/pic/pic_20170725104352981.jpg"
                 let adDuartion = 4
                 
                 /// 设置参数
