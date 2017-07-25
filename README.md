@@ -1,4 +1,6 @@
-![image](https://github.com/MQZHot/ZLaunchAdVC/blob/master/Picture/ZLaunchAdVC.png)
+![image](https://github.com/MQZHot/ZLaunchAdVC/blob/master/Picture/ZLaunchAdVC.png)<img width="150" height="150" src="https://github.com/MQZHot/ZLaunchAdVC/blob/master/Picture/ZLaunchAdVC.png"/>
+
+1
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Swift-green.svg) ![](https://img.shields.io/badge/support-iOS%208%2B-blue.svg) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) ![](https://img.shields.io/badge/pod-0.0.2-yellow.svg)
 
@@ -15,6 +17,8 @@
 - [x] 状态栏颜色设置，以及显示与隐藏
 
 ## 用法
+
+#### 代码
 
 ```swift
 ///AppleDelegate中设置
@@ -54,6 +58,10 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
     return true
 }
 ```
+
+#### 状态栏设置
+
+Target -> General -> Deployment Target -> Status Bar Style 设置状态栏颜色、显示与隐藏
 
 ## 安装
 
